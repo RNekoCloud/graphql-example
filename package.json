@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/RNekoCloud/graphql-example/issues"
   },
-  "homepage": "https://github.com/RNekoCloud/graphql-example#readme"
+  "homepage": "https://github.com/RNekoCloud/graphql-example#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.3",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
